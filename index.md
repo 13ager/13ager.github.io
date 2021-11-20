@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Saren's Secret Hideout
 
-You can use the [editor on GitHub](https://github.com/13ager/13ager.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+For past however long I have worked in Digital Marketing. I started out in the mid-90s learning HTML on my roommates computer while she went to work at suck.com.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm still learning, this time on GitHub pages, so that I can promote myself, and my skills, in order to join a DAO. 
 
 ### Markdown
 
